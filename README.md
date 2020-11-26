@@ -176,7 +176,7 @@ Complexity: reduce time complexity from exponential with brutal force to polynom
 
 > You can also take some online courses or watch some famous courses online to learn data structures and algorithms systematically if you have enough time. This might be time consuming but useful. Such as CS106B@Stanford, CS161@Stanford, 6.006@MIT, etc.
 
-> Some text books you can refer to but not necessary:
+> Some textbooks you can refer to but not required:
 > 
 > - [Introduction to Algorithms](https://www.google.com/books/edition/Introduction_to_Algorithms/i-bUBQAAQBAJ?hl=en&gbpv=0)
 > - [Algorithms](https://algs4.cs.princeton.edu/home/) 
