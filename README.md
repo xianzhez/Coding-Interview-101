@@ -204,7 +204,7 @@ Complexity: reduce time complexity from exponential with brutal force to polynom
 
 #### Before the interview
 - Practice on some platforms such as LeetCode, Google KickStart, HackerRank;
-	- LeetCode Premium is very useful, especially you can filter questions with tags and companies, and sort problems by frequency. You can consider
+	- LeetCode Premium is very useful, especially you can filter questions with tags and companies, and sort problems by frequency.
 	- Participating in the weekly contest on LeetCode is also a good way to practice interivew.
 - Find someone to do mock interview.
 
