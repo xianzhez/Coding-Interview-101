@@ -90,13 +90,13 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 > Java: PriorityQueue  
 > C++: std::priority_queue
 
-* TreeMap
+* BinarySearchTree (map)
 
 > Python: None (try to use heapq)  
 > Java: TreeMap  
 > C++: std::map
 
-* TreeSet
+* BinarySearchTree (set)
 
 * Trie: a map of key, map pairs; 
 
