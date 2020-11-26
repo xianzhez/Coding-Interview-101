@@ -202,7 +202,7 @@ Complexity: reduce time complexity from exponential with brutal force to polynom
 > - [Introduction to Algorithms](https://www.google.com/books/edition/Introduction_to_Algorithms/i-bUBQAAQBAJ?hl=en&gbpv=0)
 > - [Algorithms](https://algs4.cs.princeton.edu/home/) 
 
-### Algorithms
+#### Algorithms
 - @[Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/featured)
 	- [Graph Algorithms @ Tushar Roy - Coding Made Simple](https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j): I found these videos very useful to understand and implement graph algorithms. Tushar also provide the source code.
 
@@ -211,7 +211,7 @@ Complexity: reduce time complexity from exponential with brutal force to polynom
 - @[Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/playlists)
 	- [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O): most of algorithms mentioned in this blog are covered.
 
-### Interview tips
+#### Interview tips
 - @[Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 	- [Google Coding Interview With A College Student](https://www.youtube.com/watch?v=3Q_oYDQ2whs)
 	- [Google Coding Interview With A High School Student](https://www.youtube.com/watch?v=qz9tKlF431k&t=4s)
