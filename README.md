@@ -40,7 +40,7 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 > - [Big-O Algorithm Complexity](https://www.bigocheatsheet.com/)  
 
 
-> Python: [5. Data Structures — Python 3.8.6 documentation](https://docs.python.org/3/tutorial/datastructures.html#)[Common Python Data Structures (Guide) – Real Python](https://realpython.com/python-data-structures/)  
+> Python: [Data Structures — Python 3.8.6 documentation](https://docs.python.org/3/tutorial/datastructures.html#), [Common Python Data Structures (Guide) – Real Python](https://realpython.com/python-data-structures/)  
 > Java: [Lesson: Interfaces (The Java™ Tutorials > Collections)](https://docs.oracle.com/javase/tutorial/collections/interfaces/index.html)  
 > C++: [Containers - C++ Reference](https://www.cplusplus.com/reference/stl/)  
 
