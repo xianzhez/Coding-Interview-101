@@ -120,7 +120,7 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 >   a1, a2 = find(p1), find(p2)
 >   uf[a2] = a1
 > ```
-> WARNING: this implementation has some limitation, such as you need to traverse the `uf` by calling `find` for every element with a set to count to get the number of unions, this operation is O(n) since depth will be no more than 2.
+> WARNING: this implementation has some limitation, such as you need to traverse the `uf` by calling `find` for every element with a `set` to count the number of unions, this operation is O(n) since the length of the path for every element will be no more than 2.
 > 
 >Time complexity for union find is a little bit tricky, the union and find operation will take log*n time. Please check this [wiki](https://en.wikipedia.org/wiki/Disjoint-set_data_structure) to get a better understanding.
 
