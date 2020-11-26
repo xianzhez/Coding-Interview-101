@@ -1,7 +1,7 @@
 # Coding-Interview-101
 > Author: @xianzhez
 > 
-> Last update: 2020.11.25
+> Last updated: 2020.11.25
 > 
 > 
 > Remark: 
@@ -10,7 +10,7 @@
 > 
 > - in bold: you must know the concept and complexity, and can implement in real code.
 > - normal: you should know the concept and complexity, but pseudo-code is fine.
-> - italic:  you should know the general idea. If you encounter such a question for entry-level position, that company might not be hiring actively.
+> - in italic:  you should know the general idea. If you encounter such a question for entry-level position, that company might not be hiring actively.
 
 ## Preface
 
@@ -33,7 +33,8 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 
 ## Language
 - C++: [cplusplus.com - The C++ Resources Network](https://www.cplusplus.com/)
-
+- Python: [Python Tutorial](https://docs.python.org/3/tutorial/)
+- Java: [Java Documentation](https://docs.oracle.com/javase/tutorial/)
 ## Data Structures
 > Cheatsheet(ALGS4)(Java): [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)  
 > 
