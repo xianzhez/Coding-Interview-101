@@ -49,7 +49,7 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 
 > Python: list  
 > Java: ArrayList  
-> C++: vector  
+> C++: std::vector  
 
 * **LinkedList**: 
 
@@ -60,14 +60,14 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 * **HashTable**: 
 
 > Python: dict(), collections.defaultdict()   
-> Java: HashMap, TreeMap (Heap)  
-> C++: unordered_map, map  
+> Java: HashMap  
+> C++: std::unordered_map  
 
 * **HashSet**
 
 > Python: set()  
 > Java: HashSet(), TreeSet()  
-> C++: unordered_set, set, multi_set  
+> C++: std::unordered_set  
 
 ### Advanced
 * **Tree**
@@ -81,8 +81,8 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 * **Deque**
 
 > Python: collections.deque()  
-> Java: LinkedList, ArrayDeque
-> C++: std::deque
+> Java: LinkedList, ArrayDeque  
+> C++: std::deque 
 
 * **PriorityQueue** (heap)
 
@@ -92,11 +92,15 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 
 * BinarySearchTree (map)
 
-> Python: None (try to use heapq)  
+> Python: None (try to use [bisect](https://docs.python.org/3/library/bisect.html), but big O is different)  
 > Java: TreeMap  
 > C++: std::map
 
 * BinarySearchTree (set)
+
+> Python: None (try to use [bisect](https://docs.python.org/3/library/bisect.html)], but big O is different)  
+> Java: TreeSet  
+> C++: std::set
 
 * Trie: a map of key, map pairs; 
 
@@ -104,6 +108,21 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 > - [Implement Trie (Prefix Tree) - LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 * UnionFind
+> You can implement by yourself in an interview, here is a very concise and brilliant template (path compression has been included):
+> ```py
+> uf = {i:i for i in range(len(M))}
+> def find(p):
+>   if uf[p] != p:
+>       uf[p] = find(uf[p])
+>   return uf[p]
+>
+> def union(p1, p2):
+>   a1, a2 = find(p1), find(p2)
+>   uf[a2] = a1
+> ```
+> WARNING: this implementation has some limitation, such as you need to traverse the `uf` by calling `find` for every element with a set to count to get the number of unions, this operation is O(n) since depth will be no more than 2.
+> 
+>Time complexity for union find is a little bit tricky, the union and find operation will take log*n time. Please check this [wiki](https://en.wikipedia.org/wiki/Disjoint-set_data_structure) to get a better understanding.
 
 ### Ultimate
 * *Red-black tree*
