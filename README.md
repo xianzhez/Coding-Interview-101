@@ -18,7 +18,7 @@ This post is summarizing the data structure and algorithm fundamentals you might
 
 You may or may not know some of them. It's totally fine. You could easily find videos, blogs, and source code about these data structures and algorithms online.
 
-I tried to make it accurate and correct. But I might be still missing something important or writing something wrong. If you find any mistake or have good advice, you are welcome to contact me. If you find it useful, welcome to star, fork, and share this repo. Please also provide the refernce if you are going to refer to this repo.
+I tried to make it accurate and correct. But I might be still missing something important or writing something wrong. If you find any mistake or have good advice, you are welcome to contact me. If you find it useful, welcome to star, fork, and share this repo. Please also provide the reference if you are going to refer to this repo.
 
 Coding classic algorithms may not represent your actual ability and specialization. Don't feel discouraged if you cannot solve it in limited time or fail an interview. It takes some time!
 
