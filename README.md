@@ -36,13 +36,8 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 - Python: [Python Tutorial](https://docs.python.org/3/tutorial/)
 - Java: [Java Documentation](https://docs.oracle.com/javase/tutorial/)
 ## Data Structures
-> Cheatsheet(ALGS4)(Java): [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)  
-> 
-> Interview cheatsheet:   
-> 1. [This is my technical interview cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)   
-> 2. [GitHub - Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)  
-> Data Structures:  [Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)  
-> 3.  [Big-O Algorithm Complexity](https://www.bigocheatsheet.com/)  
+> - Cheatsheet(ALGS4)(Java): [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)  
+> - [Big-O Algorithm Complexity](https://www.bigocheatsheet.com/)  
 
 
 > Python: [5. Data Structures — Python 3.8.6 documentation](https://docs.python.org/3/tutorial/datastructures.html#)[Common Python Data Structures (Guide) – Real Python](https://realpython.com/python-data-structures/)  
@@ -172,6 +167,13 @@ LC322M: [Coin Change - LeetCode](https://leetcode.com/problems/coin-change/)
 Complexity: reduce time complexity from exponential with brutal force to polynomial. 
 
 ## Resources
+### Blogs and Repos
+> 1. [GitHub - Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet): An interview cheatsheet.
+> 2. [Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/): data structure basics  
+> 3. [fucking-algorithm](https://github.com/labuladong/fucking-algorithm/tree/english): algorithms (available in both English and Chinese)
+> 4. [fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews): data structure and algorithms implementation, as well as solutions for leetcode questions sorted by categories.
+
+### Videos
 > These videos and Youtuber might be helpful.
 
 > You can also take some online courses or watch some famous courses online to learn data structures and algorithms systematically if you have enough time. This might be time consuming but useful. Such as CS106B@Stanford, CS161@Stanford, 6.006@MIT, etc.
