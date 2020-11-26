@@ -10,7 +10,7 @@
 > 
 > - in bold: you must know the concept and complexity, and can implement in real code.
 > - normal: you should know the concept and complexity, but pseudo-code is fine.
-> - in italic:  you should know the general idea. If you encounter such a question for entry-level position, that company might not be hiring actively.
+> - in italic:  you should know the general idea. If you encounter such a question in an interview for entry-level position, that company might not be hiring actively.
 
 ## Preface
 
@@ -122,15 +122,15 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 * **Binary Search**
 * **Two pointers**
 * Fast and slow pointers
-* Reverse!
+* (Thinking from Reverse Order)
 
 ### Advanced
 * **Topological sort**
 * Greedy: e.g. Huffman coding
 * Divide and Conquer
+* UnionFind
 * Cycle detection in undirected graph
 * Cycle detection in directed graph
-* UnionFind
 * Find SCC in directed Graph
 * Lowest Common Ancestor 
 	* [Lowest Common Ancestor of a Binary Tree - LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)[Lowest Common Ancestor Binary Tree - YouTube](https://www.youtube.com/watch?v=13m9ZCB8gjw&list=RDCMUCZLJf_R2sWyUtXSKiKlyvAw&index=8&frags=pl%2Cwn)
