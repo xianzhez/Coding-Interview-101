@@ -8,9 +8,9 @@
 > 
 > For data structures and algorithms in this document
 > 
-> - in bold: you must know the concept and complexity, and can implement in real code.
+> - in **bold**: you must know the concept and complexity, and can implement in real code.
 > - normal: you should know the concept and complexity, but pseudo-code is fine.
-> - in italic:  you should know the general idea. If you encounter such a question in an interview for entry-level position, that company might not be hiring actively.
+> - in *italic*:  you should know the general idea. If you encounter such a question in an interview for entry-level position, that company might not be hiring actively.
 
 ## Preface
 
