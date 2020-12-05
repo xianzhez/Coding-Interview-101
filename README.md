@@ -66,7 +66,7 @@ I will keep updating this doc and make it more helpful. I hope everyone could la
 * **HashSet**
 
 > Python: set()  
-> Java: HashSet(), TreeSet()  
+> Java: HashSet()  
 > C++: std::unordered_set  
 
 ### Advanced
