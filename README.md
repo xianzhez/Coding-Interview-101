@@ -191,6 +191,7 @@ Complexity: reduce time complexity from exponential with brutal force to polynom
 > 2. [Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/): data structure basics  
 > 3. [fucking-algorithm](https://github.com/labuladong/fucking-algorithm/tree/english): algorithms (available in both English and Chinese)
 > 4. [fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews): data structure and algorithms implementation, as well as solutions for leetcode questions sorted by categories.
+> 5. [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/): a complete series of in depth DSA tutorials along with suitable real life examples.
 
 ### Videos
 > These videos and Youtuber might be helpful.
